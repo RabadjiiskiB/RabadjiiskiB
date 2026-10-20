@@ -46,7 +46,7 @@ A backend service for logging, tagging and analyzing my own trades. I'm building
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://www.linkedin.com/in/borislav-rabadzhiyski-ba027a323/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borislav-rabadzhiyski-ba027a323/)
 [![GitHub](https://img.shields.io/badge/GitHub-RabadjiiskiB-181717?style=flat&logo=github)](https://github.com/RabadjiiskiB)
 
 Open to junior backend, DevOps, or hybrid roles, remote or in Plovdiv.
